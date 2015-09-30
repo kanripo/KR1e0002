@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.367662
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB01n0017-014春秋經傳集解-卷第十四.
 <pb:KR1e0002_SBCK_014-1a>¶
 春秋經傳集解襄元第十四(陸云襄公名午成公子母定以謚/法因事有功曰襄辟土有德曰襄)¶
 　　　　　　　　　　杜氏　盡九年¶
@@ -504,4 +508,3 @@
 節三駕而楚不能與爭(三駕三興師謂十年師于牛首十一年/師於向其秋觀兵於鄭東門自是鄭遂)¶
 (服期音基本亦/作朞向舒亮反)¶
 纂圖互注春秋經傳集觧襄元第十四¶
-

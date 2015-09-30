@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:15.789124
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0017-001春秋經傳集解-卷第一.
 <pb:KR1e0002_SBCK_001-1a>¶
 　　　　　解隱公第一(釋文解佳買切舊夫子之經與丘明/之傳各卷杜氏合而釋之故曰經傳)¶
 (息姑惠公之子母聲子謚法不尸其位曰隱第/氏傳公羊榖梁二傳既顯姓别之此不言)¶
@@ -504,5 +508,6 @@
 死者(欲以弑君之罪加寪氏而復不/能正法誅之傳言進退無據)不書葬不成喪也(&KR0074;弑隱/篡立故)¶
 (䘮禮/不成)¶
 春秋左氏傳卷第一¶
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0018-001春秋經傳集解春秋二十國年表-一卷.
 <pb:KR1e0002_SBCK_001-1a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.273426
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0017-012春秋經傳集解-卷第十二.
 <pb:KR1e0002_SBCK_012-1a>¶
 春秋經傳集解成上第十二(陸云成公名黑肱宣公/子謚法安民立政曰成)¶
 　　　　　　　　　　杜氏　盡十年¶
@@ -568,4 +572,3 @@
 　是糴茷未反(是春晉使糴茷至楚結成晉謂魯二/於楚故留公須糴茷還驗其虚實)冬葬晉景公¶
 　公送葬諸侯莫在魯人辱之故不書諱之也(諱不書/晉葬也)¶
 　春秋左氏傳卷第十二¶
-

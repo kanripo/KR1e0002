@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.539761
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB01n0017-017春秋經傳集解-卷第十七.
 <pb:KR1e0002_SBCK_017-1a>¶
 春秋經傳集解襄四第十七¶
 　　　　　　　　　杜氏　盡二十五年¶
@@ -416,4 +420,3 @@
 而弗定乎必不免矣九丗之卿族一舉而滅之可哀也哉(寗氏/出自)¶
 (衛武公及/喜九丗也)¶
 春秋左氏傳卷第十七¶
-

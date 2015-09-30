@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.415319
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB01n0017-015春秋經傳集解-卷第十五.
 <pb:KR1e0002_SBCK_015-1a>¶
 春秋經傳集解襄二第十五¶
 　　　　　　　　　　杜氏　盡十五年¶
@@ -506,4 +510,3 @@
 (晉范氏鄭人旣誅女父畏狗因范氏而作胤故奪其妻歸范/氏先絶之傳言鄭之有謀堵音者狗本或作苟聚七注切)¶
 春秋左氏傳卷第十五¶
 <pb:KR1e0002_SBCK_015-19a>¶
-

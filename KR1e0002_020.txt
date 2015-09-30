@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.679913
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB01n0017-020春秋經傳集解-卷第二十.
 <pb:KR1e0002_SBCK_020-1a>¶
 春秋經傳集解昭元第二十(昭公名禂襄公子母齊歸在位二/十五年遜于齊在外八年凡三十)¶
 (二年薨于乾侯謚/法威儀恭明曰昭)¶
@@ -503,4 +507,3 @@
 (子雅子尾皆齊惠公之/孫也競彊也爽明也)又弱一个焉姜其危哉(个古/賀切)¶
 春秋左氏傳卷第二十¶
 <pb:KR1e0002_SBCK_020-19a>¶
-

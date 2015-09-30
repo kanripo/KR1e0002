@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.464132
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB01n0017-016春秋經傳集解-卷第十六.
 <pb:KR1e0002_SBCK_016-1a>¶
 春秋經傳集解襄三第十六¶
 　　　　　　　　　　杜氏　盡二十二年¶
@@ -419,4 +423,3 @@
 者使復其所使游氏勿怨(鄭國不討專殺之人所/以抑彊扶弱臨時之冝)曰無昭惡也¶
 (交怨則父之/不修益明也)¶
 春秋左氏傳卷第十六¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:17.065059
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 28
+#+PROPERTY: FILE SB01n0017-028春秋經傳集解-卷第二十八.
 <pb:KR1e0002_SBCK_028-1a>¶
 春秋經傳集解定下第二十八¶
 　　　　　　　　　　杜氏　盡十五年¶
@@ -353,4 +357,3 @@
 (於喪禮不赴不祔故不稱小君/臣子怠慢也反&KR0152;於寢故書葬)○冬城漆書不時告也(實以秋/城冬乃)¶
 (告廟魯知其不時故緩/告從而書之以示譏)¶
 春秋左氏傳卷第二十八¶
-

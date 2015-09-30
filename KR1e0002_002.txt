@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:15.835974
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0017-002春秋經傳集解-卷第二.
 <pb:KR1e0002_SBCK_002-1a>¶
 春秋經傳集解&KR0074;公第二(釋文&KR0074;公名軌惠公之子隱公之弟母/仲子史記亦名允謚法辟土服遠曰&KR0074;)¶
 　　　　　　　　　　杜氏　盡十八年¶
@@ -452,4 +456,3 @@
 (如齊故知其當致/禍亂瀆徒木切)公會齊侯于濼遂及文姜如齊齊侯通焉公¶
 謪之(謫譴也謫&KR0514;革/切譴遣戰切)以告(夫人告/齊侯)〇夏四月丙子享公(齊侯爲/公設享)¶
 <pb:KR1e0002_SBCK_002-17a>¶
-

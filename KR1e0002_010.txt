@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.186524
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0017-010春秋經傳集解-卷第十.
 <pb:KR1e0002_SBCK_010-1a>¶
 春秋經傳集解宣上第十(釋文宣公名倭一名接又作委文/公子母敬嬴謚法善問周達曰宣)¶
 　　　　　　　　　　杜氏　盡十一年¶
@@ -349,4 +353,3 @@
 (厲之役鄭南北兩屬故未得志九年楚子伐鄭不以黒壤興伐/逺稱厲之役者志恨在厲役此皆傳上下相包通之義也徼古)¶
 (堯/切)¶
 春秋左氏傳卷第十¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:17.163274
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB01n0017-030春秋經傳集解-卷第三十.
 <pb:KR1e0002_SBCK_030-1a>¶
 春秋經傳集解哀下第三十¶
 　　　　　　　　　　杜氏　盡二十七年¶
@@ -538,4 +542,3 @@
 <pb:KR1e0002_SBCK_030-21a>¶
 ¶
 春秋左氏傳卷第三十¶
-

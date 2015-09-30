@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:17.112990
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB01n0017-029春秋經傳集解-卷第二十九.
 <pb:KR1e0002_SBCK_029-1a>¶
 春秋經傳集解哀上第二十九(哀公名蔣定公之子蓋夫人定/姒所生敬王二十八年即位謚)¶
 (法恭仁短/折曰哀)¶
@@ -661,4 +665,3 @@
 宋殺其丈夫而囚其婦人(以宋不㑹黃池故言呉人悖惑文/直兩切本或作大夫誤悖&KR0024;内切)人¶
 宰嚭曰可勝也而弗能居也乃歸○冬呉及越平(終伍貟/之言)¶
 春秋左氏傳卷第二十九¶
-

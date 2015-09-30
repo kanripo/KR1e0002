@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.975793
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB01n0017-026春秋經傳集解-卷第二十六.
 <pb:KR1e0002_SBCK_026-1a>¶
 春秋經傳集解昭七第二十六¶
 　　　　　　　　　杜氏　盡三十二年¶
@@ -439,4 +443,3 @@
 <pb:KR1e0002_SBCK_026-16b>¶
 　人(器車服/名爵號)¶
 　春秋左氏傳卷第二十六¶
-

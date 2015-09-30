@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:17.214914
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 31
+#+PROPERTY: FILE SB01n0017-031春秋經傳集解-後序.
 <pb:KR1e0002_SBCK_031-1a>¶
 後序¶
 太康元年三月吴冦始平余自江陵還襄陽解¶
@@ -54,4 +58,3 @@
 (麤)故略記之附集解之末焉¶
 春秋經傳後序¶
 <pb:KR1e0002_SBCK_031-3b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:15.878076
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0017-003春秋經傳集解-卷第三.
 <pb:KR1e0002_SBCK_003-1a>¶
 春秋經傳集解莊公第三(莊公名同&KR0074;公子母/姜謚法勝敵克亂曰壯)¶
 　　　　　　　　　　杜氏　盡三十二年¶
@@ -573,4 +577,3 @@
 般于黨氏(共仲慶父/〇共音恭)成季奔陳(出奔不書國/亂史失之)立閔公(閔公莊公/庶子於是)¶
 (年八/&KR0010;)¶
 春秋經傳集解荘公第三¶
-

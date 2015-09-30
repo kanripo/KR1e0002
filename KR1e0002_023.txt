@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.831872
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB01n0017-023春秋經傳集解-卷第二十三.
 <pb:KR1e0002_SBCK_023-1a>¶
 春秋經傳集解昭四第二十三¶
 　　　　　　　　　杜氏　盡十七年¶
@@ -510,4 +514,3 @@
 <pb:KR1e0002_SBCK_023-19a>¶
 　敗之取餘皇以歸(傳言呉/光有謀)¶
 　春秋左氏傳卷第二十三¶
-

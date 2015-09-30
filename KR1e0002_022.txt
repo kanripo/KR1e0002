@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.778092
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 22
+#+PROPERTY: FILE SB01n0017-022春秋經傳集解-卷第二十二.
 <pb:KR1e0002_SBCK_022-1a>¶
 春秋經傳集解昭三第二十二¶
 　　　　　　　　　　杜氏　盡十二年¶
@@ -388,4 +392,3 @@
 古也有志克已復禮仁也信善哉楚靈王若能如是豈其辱於¶
 乾谿〇晉伐鮮虞因肥之役也(肥役在/此年)¶
 春秋左傳卷第二十二終¶
-

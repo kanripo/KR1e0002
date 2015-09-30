@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.319455
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB01n0017-013春秋經傳集解-卷第十三.
 <pb:KR1e0002_SBCK_013-1a>¶
 　春秋經傳集解成下第十三¶
 　　　　　　　　　　　　杜氏　盡十八年¶
@@ -622,4 +626,3 @@
 <pb:KR1e0002_SBCK_013-24a>¶
 ¶
 春秋左氏傳卷第十三¶
-

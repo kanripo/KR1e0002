@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.143286
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0017-009春秋經傳集解-卷第九.
 <pb:KR1e0002_SBCK_009-1a>¶
 春秋經傳集解文下第九¶
 　　　　　　　　　　杜氏　盡十八年¶
@@ -407,4 +411,3 @@
 城(公孫師莊/公之孫)公子朝卒使樂吕爲司宼以靖國人(樂吕戴公之/曾孫爲宣三)¶
 (年宋師/圍曹傳)¶
 春秋左氏傳卷第九¶
-

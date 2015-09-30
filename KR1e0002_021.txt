@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.730085
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB01n0017-021春秋經傳集解-卷第二十一.
 <pb:KR1e0002_SBCK_021-1a>¶
 春秋經傳集解昭二第二十一¶
 　　　　　　　　　　杜氏　盡七年¶
@@ -575,4 +579,3 @@
 從會朝又焉得居各以所利不亦可乎(孟跛利居元吉/利建焉於䖍切)故孔成¶
 子立靈公十二月癸亥葬衛襄公(靈公/元也)¶
 春秋左氏傳卷第二十一¶
-

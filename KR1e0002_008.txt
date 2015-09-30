@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:16.097254
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0017-008春秋經傳集解-卷第八.
 <pb:KR1e0002_SBCK_008-1a>¶
 春秋經傳集解文上第八(釋丈丈公名興僖公子母聲姜謚/法慈惠愛民曰文忠信接禮曰文)¶
 　　　　　　　　　　杜氏　盡十年¶
@@ -426,4 +430,3 @@
 <pb:KR1e0002_SBCK_008-17a>¶
 ¶
 春秋左氏傳卷第八¶
-

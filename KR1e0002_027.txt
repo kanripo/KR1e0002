@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:17.021460
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB01n0017-027春秋經傳集解-卷第二十七.
 <pb:KR1e0002_SBCK_027-1a>¶
 春秋經傳集解定上第二十七(定公名宋襄公之子昭公/之弟謚法安民大慮曰定)¶
 　　　　　　　　　　杜氏　盡七年¶
@@ -375,4 +379,3 @@
 于公族黨氏(黨氏周大/夫黨音掌)而後朝于莊宫(莊王/廟也)¶
 春秋左氏傳卷第二十七¶
 <pb:KR1e0002_SBCK_027-14b>¶
-

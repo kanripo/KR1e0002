@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:15.962078
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0017-005春秋經傳集解-卷第五.
 <pb:KR1e0002_SBCK_005-1a>¶
 春秋經傳集解僖公上第五(僖公名申莊公之子閔公之兄/母成風謚法小心畏忌曰僖)¶
 　　　　　　　　　　杜氏　盡十五年¶
@@ -542,4 +546,3 @@
 河東置官司焉(征賦/也)¶
 春秋左傳卷第五¶
 <pb:KR1e0002_SBCK_005-20b>¶
-

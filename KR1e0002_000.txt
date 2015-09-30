@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳集解
-#+DATE: 2015-09-23 09:39:12
+#+DATE: 2015-09-10 22:50:15.754037
+#+PROPERTY: ID KR1e0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0017-000春秋經傳集解-序.
 <pb:KR1e0002_SBCK_000-1a>¶
 春秋序(陸德明曰此杜元凱所作旣以釋經故依例音之本/或題爲春秋左傳序者沈文何以爲釋例序今不用)¶
 　　唐國子博士兼太子中允贈齊州刺史吳縣開國男陸德丨釋文附¶
@@ -119,4 +123,3 @@
 春秋序終¶
 　　　　　濳府劉氏家¶
 　　　　　塾希世之寳¶
-
